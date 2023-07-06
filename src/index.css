@@ -1,0 +1,26 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+@font-face {
+  font-family: 'Rigoletto Free';
+  src: url('fonts/Rigoletto Free.otf') format('opentype');
+}
+
+body {
+  /* background-color: #b0a090;
+  background-image: url("https://www.transparenttextures.com/patterns/brick-wall.png"); */
+  
+  /* background-color: #f7f8fc */
+/* background-image: url("https://www.transparenttextures.com/patterns/black-thread-light.png"); #F2F8FF #EDF0F3;*/
+}
