@@ -37,7 +37,7 @@
   },
   "peerDependencies": {
     "@babel/core": "^7.21.3",
-    "react": ">=16.8.0"
+    "react": "17.0.2"
   },
   "scripts": {
     "start": "vite",
